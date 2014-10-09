@@ -7,7 +7,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.widget.ListView;
 
-import com.tanxiaoqiang.R;
+import com.test.R;
 import com.test.adapter.CVCategoryListAdapter;
 import com.test.datastructure.Category;
 import com.test.datastructure.CategoryInfo;

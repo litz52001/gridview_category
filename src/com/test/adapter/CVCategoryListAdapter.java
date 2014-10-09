@@ -16,7 +16,7 @@ import android.widget.LinearLayout;
 import android.widget.LinearLayout.LayoutParams;
 import android.widget.TextView;
 
-import com.tanxiaoqiang.R;
+import com.test.R;
 import com.test.datastructure.Category;
 import com.test.datastructure.CategoryInfo;
 
